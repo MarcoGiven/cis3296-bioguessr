@@ -5,6 +5,7 @@ import logoRect from '../assets/logos/logorect.webp';
 import bgImage from '../assets/homePageBG.png'; 
 import LeaderboardToggle from './LeaderboardToggle';
 
+
 const GAME_MODES = [
   {
     id: 'easy',
